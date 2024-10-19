@@ -9,11 +9,15 @@ On this repository, you will have access to several notebooks to learn different
 In this notebook, get familiar with the concept used in cjapy and how to connect to that tool.\
 We will provide you information on how to get started with python, cjapy and the required permissions to unlock their potential. 
 
-* Notebook 2 : Solution Design
+* Notebook 2 : Solution Design & data usage
 In this short notebook, we will build a Solution Design from scratch using the cjapy in order to learn how to easily build readable meta data file. 
-
-
-* Notebook 3 : Data Usage
-In this notebook, we will go on data usage for your Data View.\
-Learning how we can identity which elements are being used or not and map them to XDM fields so you can report on XDM paths and not on CJA dimensions and metrics.\
+From this extraction, we will identify which elements are being used (or not) and map them to XDM fields so you can report on XDM paths and not on CJA dimensions and metrics.\
 This can build a bridge between the data analysts and the data architect to understand the schema composition of the data collection methods.
+
+* Notebook 3 : Advance Analytics
+In this notebook, we will provide additional capabilities that can be leveraged by the python ecosystem to bring additional insights in your data.\
+Some external libraries can be used to extend the analysis and visualization in order to derive even more value out of your data that have been processed by Customer Journey Analytics.
+
+
+* Notebook 4 : Ingestion in AEP
+In this notebook, we will use the data that are 
