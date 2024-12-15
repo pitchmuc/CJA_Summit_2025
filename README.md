@@ -27,8 +27,15 @@ Covers:
 * Connecting Schema and Solution design
 
 ## Notebook 3 : Advance Analytics
-In this notebook, we will provide additional capabilities that can be leveraged by the python ecosystem to bring additional insights in your data.\
+In this notebook, once we have learned on how to extract data from the `CJA` via the API and `cjapy`, we will provide additional capabilities that can be leveraged by the python ecosystem to bring additional insights in your data.\
 Some external libraries can be used to extend the analysis and visualization in order to derive even more value out of your data that have been processed by Customer Journey Analytics.
+
+Covers:
+* Creating a request for data for CJA API via cjapy
+* Understanding the data request response
+* Complex use-case of data extract
+* Data representation via external tools
+* Data analysis via external tools
 
 
 ## Notebook 4 : Ingestion in AEP
