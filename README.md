@@ -10,6 +10,8 @@ In this repository, you'll find notebooks showing different methods for building
 In this notebook, learn about the concepts used in `cjapy` and how to connect to this tool.
 We will show you how to get started with Python, cjapy, and obtain the required permissions to unlock their potential.
 
+[01. Introduction.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/fee46ddf820614bf7fdfaf1e655838985c5f9593/notebooks/01.%20Introduction.ipynb)
+
 Covers:
 * Creating a Developer Project in Adobe Environment
 * Installing the cjapy, aepp, and notebook modules
@@ -18,6 +20,8 @@ Covers:
 ## Notebook 2 : Solution Design & Data Usage
 In this notebook, we will build a Solution Design from scratch using cjapy to create readable metadata files. We will analyze which elements are being used (or not) and map them to XDM fields, allowing you to report on XDM paths instead of CJA dimensions and metrics.
 This process creates a bridge between data analysts and data architects, helping both understand the schema composition of data collection methods.
+
+[02. Solution Design.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/73e22b988b56bee3f51f70a377dd1ecfae0aab9e/notebooks/02.%20Solution%20Design.ipynb)
 
 Covers:
 * Connecting to cjapy and retrieving dataviews
@@ -29,6 +33,8 @@ Covers:
 ## Notebook 3 : Advance Analytics
 In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data.
 External libraries can enhance your analysis and visualization, helping you extract more value from data processed by Customer Journey Analytics.
+
+[03. Advance Analytics.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/e8ff50efc235b6e90b0a08e82e6120413ef7bc2e/notebooks/03.%20Advance%20Analytics.ipynb)
 
 Covers:
 * Creating data requests for CJA API via cjapy
