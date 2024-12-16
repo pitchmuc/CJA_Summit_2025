@@ -1,23 +1,23 @@
 # LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab
 
-Unlock the full potential of Adobe Customer Journey Analytics (CJA) with advanced data science techniques and Python programming. This hands-on lab equips you with the skills to build datasets, optimize integration processes, and leverage powerful analytics tools using Python.\
-You'll learn to streamline data ingestion, create efficient workflows, and maximize CJA's capabilities through Python. Our instructors will guide you through practical exercises designed to enhance data quality, improve workflows, and implement advanced analytics using Python libraries. We'll also explore how to use Python to interact with Adobe's APIs for sophisticated data manipulation. This lab empowers you to create scalable, high-performance data architectures that drive actionable insights and business value—all using Python.
+Master Adobe Customer Journey Analytics (CJA) with data science and Python programming. This hands-on lab shows you how to build datasets, optimize integrations, and use analytics tools with Python.
 
-On this repository, you will have access to several notebooks to learn different ways to build and scale efficient analysis and pipeline: 
+You'll learn to streamline data processes, create efficient workflows, and maximize CJA's capabilities. Through guided exercises, instructors demonstrate how to improve data quality and implement advanced analytics using Python libraries. You'll learn to use Adobe's APIs for powerful data manipulation. This lab equips you to build scalable, high-performance data systems that provide actionable insights and business value.
+
+In this repository, you'll find notebooks showing different methods for building and scaling efficient analyses and pipelines:
 
 ## Notebook 1 : Introduction to cjapy
-In this notebook, get familiar with the concept used in `cjapy` and how to connect to that tool.\
-We will provide you information on how to get started with python, cjapy and the required permissions to unlock their potential. 
+In this notebook, learn about the concepts used in `cjapy` and how to connect to this tool.
+We will show you how to get started with Python, cjapy, and obtain the required permissions to unlock their potential.
 
 Covers:
-* Creating a Developer Project in Adobe Environemnt
-* Installing the cjapy, aepp, notebook module
+* Creating a Developer Project in Adobe Environment
+* Installing the cjapy, aepp, and notebook modules
 * Getting started with cjapy
 
 ## Notebook 2 : Solution Design & Data Usage
-In this notebook, we will build a Solution Design from scratch using the cjapy in order to learn how to easily build readable meta data file. 
-From this extraction, we will identify which elements are being used (or not) and map them to XDM fields so you can report on XDM paths and not on CJA dimensions and metrics.\
-This can build a bridge between the data analysts and the data architect to understand the schema composition of the data collection methods.
+In this notebook, we will build a Solution Design from scratch using cjapy to create readable metadata files. We will analyze which elements are being used (or not) and map them to XDM fields, allowing you to report on XDM paths instead of CJA dimensions and metrics.
+This process creates a bridge between data analysts and data architects, helping both understand the schema composition of data collection methods.
 
 Covers:
 * Connecting to cjapy and retrieving dataviews
@@ -27,15 +27,15 @@ Covers:
 * Connecting Schema and Solution design
 
 ## Notebook 3 : Advance Analytics
-In this notebook, once we have learned on how to extract data from the `CJA` via the API and `cjapy`, we will provide additional capabilities that can be leveraged by the python ecosystem to bring additional insights in your data.\
-Some external libraries can be used to extend the analysis and visualization in order to derive even more value out of your data that have been processed by Customer Journey Analytics.
+In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data.
+External libraries can enhance your analysis and visualization, helping you extract more value from data processed by Customer Journey Analytics.
 
 Covers:
-* Creating a request for data for CJA API via cjapy
-* Understanding the data request response
-* Complex use-case of data extract
-* Data representation via external tools
-* Data analysis via external tools
+* Creating data requests for CJA API via cjapy
+* Understanding data request responses
+* Complex data extraction use cases
+* Data visualization with external tools
+* Advanced data analysis with external tools
 
 
 ## Notebook 4 : Ingestion in AEP
@@ -78,4 +78,3 @@ Note: cjapy might require additional setup as it is a custom library for Adobe's
 - **cjapy GitHub Repository**: [https://github.com/pitchmuc/cjapy](https://github.com/pitchmuc/cjapy?tab=readme-ov-file)
 - **CJA API Documentation**: [Adobe CJA APIs](https://www.adobe.io/cja-apis/docs/api/) | [Use Cases](https://www.adobe.io/cja-apis/docs/use-cases/)
 - **Adobe Developer Console Guide**: [Getting Started](https://developer.adobe.com/developer-console/docs/guides/getting-started/)
-
