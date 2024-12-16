@@ -1,10 +1,12 @@
 # LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab
 
-Master Adobe Customer Journey Analytics (CJA) with data science and Python programming. This hands-on lab shows you how to build datasets, optimize integrations, and use analytics tools with Python.
+Welcome to the repository for **LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab** at Adobe Summit 2025. Learn how to master Adobe Customer Journey Analytics (CJA) through data science and Python programming. In this hands-on lab, you'll discover how to build datasets, optimize integrations, and leverage analytics tools with Python.
 
-You'll learn to streamline data processes, create efficient workflows, and maximize CJA's capabilities. Through guided exercises, instructors demonstrate how to improve data quality and implement advanced analytics using Python libraries. You'll learn to use Adobe's APIs for powerful data manipulation. This lab equips you to build scalable, high-performance data systems that provide actionable insights and business value.
+The lab teaches you to streamline data processes, build efficient workflows, and unlock CJA's full potential. Through practical exercises, you'll learn how to enhance data quality and perform advanced analytics using Python libraries. You'll master Adobe's APIs for sophisticated data manipulation. By the end, you'll be equipped to create scalable, high-performance data systems that deliver actionable insights and business value.
 
-In this repository, you'll find notebooks showing different methods for building and scaling efficient analyses and pipelines:
+## Introduction
+
+The materials contained in this repository, presented at Adobe Summit 2025, aim to provide an end-to-end understanding of analyzing and leveraging customer journey data. In this repository, you'll find notebooks showing different methods for building and scaling efficient analyses and pipelines:
 
 ## Notebook 1 : Introduction to cjapy
 In this notebook, learn about the concepts used in `cjapy` and how to connect to this tool.
