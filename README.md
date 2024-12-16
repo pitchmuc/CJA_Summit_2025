@@ -1,4 +1,4 @@
-# From Data to Decisions: Data Science for Customer Journey Analytics Lab
+# LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab
 
 Unlock the full potential of Adobe Customer Journey Analytics (CJA) with advanced data science techniques and Python programming. This hands-on lab equips you with the skills to build datasets, optimize integration processes, and leverage powerful analytics tools using Python.\
 You'll learn to streamline data ingestion, create efficient workflows, and maximize CJA's capabilities through Python. Our instructors will guide you through practical exercises designed to enhance data quality, improve workflows, and implement advanced analytics using Python libraries. We'll also explore how to use Python to interact with Adobe's APIs for sophisticated data manipulation. This lab empowers you to create scalable, high-performance data architectures that drive actionable insights and business value—all using Python.
@@ -14,7 +14,7 @@ Covers:
 * Installing the cjapy, aepp, notebook module
 * Getting started with cjapy
 
-## Notebook 2 : Solution Design & data usage
+## Notebook 2 : Solution Design & Data Usage
 In this notebook, we will build a Solution Design from scratch using the cjapy in order to learn how to easily build readable meta data file. 
 From this extraction, we will identify which elements are being used (or not) and map them to XDM fields so you can report on XDM paths and not on CJA dimensions and metrics.\
 This can build a bridge between the data analysts and the data architect to understand the schema composition of the data collection methods.
@@ -40,3 +40,42 @@ Covers:
 
 ## Notebook 4 : Ingestion in AEP
 In this notebook, we will use the data that are 
+
+## Getting Started
+
+To explore these materials, ensure you have Jupyter Notebook installed. Clone this repository and open the notebooks in Jupyter to interact with the pre-configured code cells and conduct your analyses.
+
+## Dependencies
+
+Ensure the following Python libraries are installed to fully utilize the notebooks:
+
+- `cjapy`
+- `pandas`
+- `plotly`
+- `json`
+- `jwt`
+- `requests`
+- `sqlalchemy`
+- `datetime`
+- `sklearn`
+- `numpy`
+- `statsmodels`
+- `warnings`
+
+These can be installed using pip:
+
+```sh
+pip install cjapy pandas plotly json jwt requests sqlalchemy datetime sklearn numpy statsmodels warnings
+```
+
+Note: cjapy might require additional setup as it is a custom library for Adobe's Customer Journey Analytics.
+
+## Requirements
+[requirements.txt](requirements.txt)
+
+## Reference Links
+
+- **cjapy GitHub Repository**: [https://github.com/pitchmuc/cjapy](https://github.com/pitchmuc/cjapy?tab=readme-ov-file)
+- **CJA API Documentation**: [Adobe CJA APIs](https://www.adobe.io/cja-apis/docs/api/) | [Use Cases](https://www.adobe.io/cja-apis/docs/use-cases/)
+- **Adobe Developer Console Guide**: [Getting Started](https://developer.adobe.com/developer-console/docs/guides/getting-started/)
+
