@@ -57,23 +57,25 @@ To explore these materials, ensure you have Jupyter Notebook installed. Clone th
 
 Ensure the following Python libraries are installed to fully utilize the notebooks:
 
-- `cjapy`
+- `cjapy>=0.2.4`
+- `matplotlib`
+- `numpy`
 - `pandas`
 - `plotly`
-- `json`
-- `jwt`
+- `PyJWT`
 - `requests`
-- `sqlalchemy`
-- `datetime`
-- `sklearn`
-- `numpy`
-- `statsmodels`
-- `warnings`
+- `scikit_learn`
+- `bokeh`
+- `seaborn`
+- `aepp`
+- `openpyxl`
+- `notebook`
+- `jupyter`
 
 These can be installed using pip:
 
 ```sh
-pip install cjapy pandas plotly json jwt requests sqlalchemy datetime sklearn numpy statsmodels warnings
+pip install cjapy>=0.2.4 matplotlib numpy pandas plotly PyJWT requests scikit-learn bokeh seaborn aepp openpyxl notebook jupyter
 ```
 
 Note: cjapy might require additional setup as it is a custom library for Adobe's Customer Journey Analytics.
