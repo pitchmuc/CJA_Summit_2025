@@ -6,7 +6,7 @@ The lab teaches you to streamline data processes, build efficient workflows, and
 
 ## Introduction
 
-The materials contained in this repository, presented at Adobe Summit 2025, aim to provide an end-to-end understanding of analyzing and leveraging customer journey data. In this repository, you'll find notebooks showing different methods for building and scaling efficient analyses and pipelines.
+The materials contained in this repository, presented at Adobe Summit 2025, aim to provide an end-to-end understanding of analyzing and leveraging customer journey data. In this repository, you'll find notebooks showing different methods for building and scaling efficient analyses and pipelines. The notebooks cover the following topics:
 
 ## Notebook 1 : Introduction to cjapy
 In this notebook, learn about the concepts used in `cjapy` and how to connect to this tool.
