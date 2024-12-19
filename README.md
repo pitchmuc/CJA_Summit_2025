@@ -1,8 +1,6 @@
 # LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab
 
-Welcome to the repository for **LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab** at Adobe Summit 2025. Learn how to master Adobe Customer Journey Analytics (CJA) through data science and Python programming. In this hands-on lab, you'll discover how to build datasets, optimize integrations, and leverage analytics tools with Python.
-
-The lab teaches you to streamline data processes, build efficient workflows, and unlock CJA's full potential. Through practical exercises, you'll learn how to enhance data quality and perform advanced analytics using Python libraries. You'll master Adobe's APIs for sophisticated data manipulation. By the end, you'll be equipped to create scalable, high-performance data systems that deliver actionable insights and business value.
+Welcome to the repository for **LXXX - From Data to Decisions: Data Science for Customer Journey Analytics Lab** at Adobe Summit 2025. Learn how to master Adobe Customer Journey Analytics (CJA) through data science and Python programming. In this hands-on lab, you'll discover how to build datasets, optimize integrations, and leverage analytics tools with Python. Our instructors will guide you through practical exercises designed to enhance data quality, improve workflows, and implement advanced analytics using Python libraries. You'll also learn how to interact with Adobe's APIs for sophisticated data manipulation. This lab empowers you to create scalable, high-performance data architectures that drive actionable insights and business value—all using Python.
 
 ## Introduction
 
