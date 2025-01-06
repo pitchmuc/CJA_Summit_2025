@@ -84,6 +84,6 @@ Note: cjapy might require additional setup as it is a custom library for Adobe's
 ## Reference Links
 
 - **cjapy GitHub Repository**: [https://github.com/pitchmuc/cjapy](https://github.com/pitchmuc/cjapy?tab=readme-ov-file)
-- **aepp Github Repository**: [https://github.com/adobe/aepp](https://github.com/adobe/aepp/blob/main/README.md)
-- **CJA API Documentation**: [Adobe CJA APIs](https://www.adobe.io/cja-apis/docs/api/) | [Use Cases](https://www.adobe.io/cja-apis/docs/use-cases/)
+- **aepp GitHub Repository**: [https://github.com/adobe/aepp](https://github.com/adobe/aepp/blob/main/README.md)
+- **CJA API Documentation**: [Adobe CJA APIs](https://www.adobe.io/cja-apis/docs/api/) | [Use Cases](https://www.adobe.io/cja-apis/docs/use-cases/) | [Quick Start Guide](https://developer.adobe.com/cja-apis/docs/getting-started/) | [CJA API GitHub](https://github.com/AdobeDocs/cja-apis)
 - **Adobe Developer Console Guide**: [Getting Started](https://developer.adobe.com/developer-console/docs/guides/getting-started/)
