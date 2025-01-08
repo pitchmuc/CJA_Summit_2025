@@ -47,6 +47,11 @@ Covers:
 ## Notebook 4 : Ingestion in AEP
 In this notebook, we will use the data that are 
 
+## Notebook 5 : CJA Solution Design Reference
+**[05. CJA Data View Solution Design Reference Generator.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/8b9ffab2265a9d1c43f31927dba8844c03281b20/notebooks/05.%20CJA%20Data%20View%20Solution%20Design%20Reference%20Generator.ipynb)**
+
+A revamped tool to assist in the design of CJA Solution Design Reference Documentation. It automates the generation of a comprehensive spreadsheet detailing all metrics and dimensions available in a selected CJA Data View.
+
 ## Getting Started
 
 To explore these materials, ensure you have Jupyter Notebook installed. Clone this repository and open the notebooks in Jupyter to interact with the pre-configured code cells and conduct your analyses.
