@@ -47,16 +47,16 @@ Covers:
 ## Notebook 4 : Ingestion in AEP
 In this notebook, we will use the data that are 
 
-## Notebook 5 : CJA Solution Design Reference
+## Notebook 5 : CJA Data View Solution Design Reference
 
-A revamped tool to assist in the design of CJA Solution Design Reference Documentation. It automates the generation of a comprehensive spreadsheet detailing all metrics and dimensions available in a selected CJA Data View.
+A revamped tool to assist in the design of CJA Data View Solution Design Reference Documentation. It automates the generation of a comprehensive spreadsheet detailing all metrics and dimensions available in a selected CJA Data View.
 
 **[05. CJA Data View Solution Design Reference Generator.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/8b9ffab2265a9d1c43f31927dba8844c03281b20/notebooks/05.%20CJA%20Data%20View%20Solution%20Design%20Reference%20Generator.ipynb)**
 
 Covers:
 * Initial Setup
 * Data View Selection
-* Retrieves Metadata, Data View info, Data View Metrics and Dimensions
+* Retrieves Metadata, Data View Information, Data View Metrics and Dimensions
 * Generates a Detailed Solution Design Reference Spreadsheet
 
 
