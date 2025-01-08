@@ -1,6 +1,6 @@
 {
-    "org_id": "<orgID>",
-    "client_id": "<APIkey>",
-    "secret": "<YourSecret>",
-    "scopes": "<scopes>"
+    "org_id": "D0F83C645C5E1CC60A495CB3@AdobeOrg",
+    "client_id": "fbb6f6a5024e45d08b5f346a3c9a540b",
+    "secret": "p8e-eRzeDVQWJMdlriqLjhvyO_d3tzbOItmy",
+    "scopes": "openid, AdobeID, read_pc.acp, read_pc, read_pc.dma_tartan, additional_info, read_organizations, additional_info.projectedProductContext, session"
 }
