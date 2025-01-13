@@ -14,8 +14,8 @@ We will show you how to get started with Python, cjapy, and obtain the required 
 
 Covers:
 * Creating a Developer Project in Adobe Environment
-* Installing the cjapy, aepp, and notebook modules
-* Getting started with cjapy
+* Installing the `cjapy`, `aepp`, and notebook modules
+* Getting started with `cjapy`
 
 ## Notebook 2 : Solution Design & Data Usage
 In this notebook, we will build a Solution Design from scratch using cjapy to create readable metadata files. We will analyze which elements are being used (or not) and map them to XDM fields, allowing you to report on XDM paths instead of CJA dimensions and metrics.
@@ -24,10 +24,10 @@ This process creates a bridge between data analysts and data architects, helping
 **[02. Solution Design.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/73e22b988b56bee3f51f70a377dd1ecfae0aab9e/notebooks/02.%20Solution%20Design.ipynb)**
 
 Covers:
-* Connecting to cjapy and retrieving dataviews
+* Connecting to `cjapy` and retrieving dataviews
 * Manipulating, cleaning and copying a dataframe
-* Connecting to AEP via aepp
-* Extracting Schema information via aepp
+* Connecting to AEP via `aepp`
+* Extracting Schema information via `aepp`
 * Connecting Schema and Solution design
 
 ## Notebook 3 : Advance Analytics
@@ -36,7 +36,7 @@ In this notebook, we'll explore how to leverage the Python ecosystem after extra
 **[03. Advance Analytics.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/e8ff50efc235b6e90b0a08e82e6120413ef7bc2e/notebooks/03.%20Advance%20Analytics.ipynb)**
 
 Covers:
-* Creating data requests for CJA API via cjapy
+* Creating data requests for CJA API via `cjapy`
 * Understanding data request responses
 * Complex data extraction use cases
 * Advanced data analysis with external tools
@@ -63,7 +63,7 @@ A revamped tool to assist in the design of CJA Data View Solution Design Referen
 **[06. CJA Data View Solution Design Reference Generator.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/8b9ffab2265a9d1c43f31927dba8844c03281b20/notebooks/05.%20CJA%20Data%20View%20Solution%20Design%20Reference%20Generator.ipynb)**
 
 Covers:
-* Initial Setup
+* Initial `cjapy` Setup
 * Data View Selection
 * Retrieves Metadata, Data View Information, Data View Metrics and Dimensions
 * Generates a Detailed Solution Design Reference Spreadsheet
