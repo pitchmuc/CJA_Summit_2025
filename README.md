@@ -31,8 +31,7 @@ Covers:
 * Connecting Schema and Solution design
 
 ## Notebook 3 : Advance Analytics
-In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data.
-External libraries can enhance your analysis and visualization, helping you extract more value from data processed by Customer Journey Analytics.
+In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data to create complex data requests.
 
 **[03. Advance Analytics.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/e8ff50efc235b6e90b0a08e82e6120413ef7bc2e/notebooks/03.%20Advance%20Analytics.ipynb)**
 
@@ -40,18 +39,28 @@ Covers:
 * Creating data requests for CJA API via cjapy
 * Understanding data request responses
 * Complex data extraction use cases
-* Data visualization with external tools
 * Advanced data analysis with external tools
 
 
-## Notebook 4 : Ingestion in AEP
-In this notebook, we will use the data that are 
+## Notebook 4 : Visualization & Forecasting
+In this notebook we will explore how to visualize data extracted from `CJA` via the API and `cjapy`. We will demonstrate how to create visualizations and forecasts using external tools like `matplotlib`, `plotly`, and `seaborn`.
 
-## Notebook 5 : CJA Data View Solution Design Reference
+**[04. Visualizations & Forecasting.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/main/notebooks/04.%20Visualizations%20&%20Forecasting.ipynb)**
+
+Covers:
+* Data visualization with `matplotlib`, `plotly`, and `seaborn`
+* Forecasting with `scikit-learn` and `bokeh`
+* Creating interactive visualizations
+
+
+## Notebook 5 : Summary Data to AEP
+In this notebook, we will TBD
+
+## Notebook 6 : CJA Data View Solution Design Reference
 
 A revamped tool to assist in the design of CJA Data View Solution Design Reference Documentation. It automates the generation of a comprehensive spreadsheet detailing all metrics and dimensions available in a selected CJA Data View.
 
-**[05. CJA Data View Solution Design Reference Generator.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/8b9ffab2265a9d1c43f31927dba8844c03281b20/notebooks/05.%20CJA%20Data%20View%20Solution%20Design%20Reference%20Generator.ipynb)**
+**[06. CJA Data View Solution Design Reference Generator.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/8b9ffab2265a9d1c43f31927dba8844c03281b20/notebooks/05.%20CJA%20Data%20View%20Solution%20Design%20Reference%20Generator.ipynb)**
 
 Covers:
 * Initial Setup
