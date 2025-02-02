@@ -21,14 +21,14 @@ Covers:
 In this notebook, we will build a Solution Design from scratch using cjapy to create readable metadata files. We will analyze which elements are being used (or not) and map them to XDM fields, allowing you to report on XDM paths instead of CJA dimensions and metrics.
 This process creates a bridge between data analysts and data architects, helping both understand the schema composition of data collection methods.
 
-**[02. Solution Design.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/73e22b988b56bee3f51f70a377dd1ecfae0aab9e/notebooks/02.%20Solution%20Design.ipynb)**
+**[02. Data View exploration and AEP schema comparison.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/73e22b988b56bee3f51f70a377dd1ecfae0aab9e/notebooks/02.%20Data%20View%20exploration%20and%20AEP%20schema%20comparison.ipynb)**
 
 Covers:
-* Connecting to `cjapy` and retrieving dataviews
+* Connecting to `cjapy` and retrieving data views
 * Manipulating, cleaning and copying a dataframe
 * Connecting to AEP via `aepp`
 * Extracting Schema information via `aepp`
-* Connecting Schema and Solution design
+* Connecting Schema and Customer Journey Analytics Data View
 
 ## Notebook 3 : Advance Analytics
 In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data to create complex data requests.
