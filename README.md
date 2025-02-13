@@ -62,9 +62,9 @@ In this notebook we will explore how to visualize data extracted from `CJA` via 
 * Volatility Modeling with GARCH
 
 
-## Notebook 5 : Summary Data to AEP
+## Notebook 5 : Summary Data to Adobe Experience Platform (AEP)
 
-In this notebook, we will explore how to extract data from CJA and via `aepp` load it into Adobe Experience Platform (AEP). We will demonstrate how to create a data pipeline to extract data from CJA, transform it, and load it into AEP.
+In this notebook, we will explore how to extract data from CJA and via `aepp` load it into AEP. We will demonstrate how to create a data pipeline to extract data from CJA, transform it, and load it into AEP.
 
 **[05. Summary Data to AEP.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/a9e658fc19f05a200429bec81728861088104c34/notebooks/05.%20Summary%20Data%20to%20AEP.ipynb)**
 
@@ -75,7 +75,7 @@ Covers:
     - Field group setup
     - Schema definition
     - Dataset configuration
-* Adobe Experience Platform (AEP) data ingestion preparation
+* AEP data ingestion preparation
 * Data ingestion process
 * Connection and DataView setup
 
