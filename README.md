@@ -47,14 +47,38 @@ In this notebook we will explore how to visualize data extracted from `CJA` via 
 
 **[04. Visualizations & Forecasting.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/main/notebooks/04.%20Visualizations%20&%20Forecasting.ipynb)**
 
-Covers:
-* Data visualization with `matplotlib`, `plotly`, and `seaborn`
-* Forecasting with `scikit-learn` and `bokeh`
-* Creating interactive visualizations
+* Data Extraction using `cjapy` for CJA metrics
+* Data Preprocessing and date formatting
+* Time Series Analysis with Prophet model
+* Visualization techniques including:
+  - Line plots
+  - Histograms
+  - Interactive Plotly plots
+  - Rolling statistics
+  - Seasonal decomposition
+  - Heatmaps
+  - Boxplots
+* Statistical Analysis and time series decomposition
+* Volatility Modeling with GARCH
 
 
 ## Notebook 5 : Summary Data to AEP
-In this notebook, we will TBD
+
+In this notebook, we will explore how to extract data from CJA and via `aepp` load it into Adobe Experience Platform (AEP). We will demonstrate how to create a data pipeline to extract data from CJA, transform it, and load it into AEP.
+
+**[05. Summary Data to AEP.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/a9e658fc19f05a200429bec81728861088104c34/notebooks/05.%20Summary%20Data%20to%20AEP.ipynb)**
+
+Covers:
+* Setup and initialization of environment
+*  Data loading procedures
+*  Schema and dataset creation
+    - Field group setup
+    - Schema definition
+    - Dataset configuration
+* Adobe Experience Platform (AEP) data ingestion preparation
+* Data ingestion process
+* Customer Journey Analytics (CJA) connection and DataView setup
+
 
 ## Notebook 6 : CJA Data View Solution Design Reference
 
