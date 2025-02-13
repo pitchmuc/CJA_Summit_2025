@@ -77,7 +77,7 @@ Covers:
     - Dataset configuration
 * Adobe Experience Platform (AEP) data ingestion preparation
 * Data ingestion process
-* Customer Journey Analytics (CJA) connection and DataView setup
+* Connection and DataView setup
 
 
 ## Notebook 6 : CJA Data View Solution Design Reference
