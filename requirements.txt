@@ -8,7 +8,12 @@ requests
 scikit_learn
 bokeh
 seaborn
-aepp
+aepp>=0.3.9
 openpyxl
 notebook
 jupyter
+prophet
+ipython
+statsmodels
+arch
+pytz
