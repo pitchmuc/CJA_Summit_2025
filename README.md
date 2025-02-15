@@ -111,7 +111,7 @@ Ensure the following Python libraries are installed to fully utilize the noteboo
 - `scikit_learn`
 - `bokeh`
 - `seaborn`
-- `aepp>=0.3.9`
+- `aepp>=0.3.9.post4`
 - `openpyxl`
 - `notebook`
 - `jupyter`
