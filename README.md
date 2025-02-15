@@ -24,11 +24,11 @@ This process creates a bridge between data analysts and data architects, helping
 **[02. Data View exploration and AEP schema comparison.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/main/notebooks/02.%20Data%20View%20exploration%20and%20AEP%20schema%20comparison.ipynb)**
 
 Covers:
-* Connecting to `cjapy` and retrieving data views
+* Connecting to `cjapy` and retrieving Data Views
 * Manipulating, cleaning and copying a dataframe
 * Connecting to AEP via `aepp`
 * Extracting Schema information via `aepp`
-* Connecting Schema and Customer Journey Analytics Data View
+* Connecting Schema and CJA Data View
 
 ## Notebook 3 : Advance Analytics
 In this notebook, we'll explore how to leverage the Python ecosystem after extracting data from `CJA` via the API and `cjapy`. We'll demonstrate additional capabilities that can provide deeper insights into your data to create complex data requests.
@@ -89,8 +89,8 @@ A revamped tool to assist in the design of CJA Data View Solution Design Referen
 Covers:
 * Initial `cjapy` Setup
 * Data View Selection
-* Retrieves Metadata, Data View Information, Data View Metrics and Dimensions
-* Generates a Detailed Solution Design Reference Spreadsheet
+* Retrieves CJA Metadata, Data View Information, Data View Metrics and Dimensions
+* Generates a Detailed CJA Data View Solution Design Reference Excel Spreadsheet
 
 
 ## Getting Started
