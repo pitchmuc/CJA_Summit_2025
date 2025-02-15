@@ -124,7 +124,7 @@ Ensure the following Python libraries are installed to fully utilize the noteboo
 These can be installed using pip:
 
 ```sh
-pip install cjapy>=0.2.4 matplotlib numpy pandas plotly PyJWT requests scikit-learn bokeh seaborn aepp>=0.3.9 openpyxl notebook jupyter prophet ipython statsmodels arch pytz
+pip install cjapy>=0.2.4 matplotlib numpy pandas plotly PyJWT requests scikit-learn bokeh seaborn aepp>=0.3.9.post4 openpyxl notebook jupyter prophet ipython statsmodels arch pytz
 ```
 
 Note: cjapy might require additional setup as it is a custom library for Adobe's Customer Journey Analytics.
