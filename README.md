@@ -47,6 +47,7 @@ In this notebook we will explore how to visualize data extracted from `CJA` via 
 
 **[04. Visualizations & Forecasting.ipynb](https://github.com/pitchmuc/CJA_Summit_2025/blob/main/notebooks/04.%20Visualizations%20%26%20Forecasting.ipynb)**
 
+Covers:
 * Data Extraction using `cjapy` for CJA metrics
 * Data Preprocessing and date formatting
 * Time Series Analysis with Prophet model
